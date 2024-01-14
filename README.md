@@ -32,6 +32,7 @@ Welcome to the Stable Diffusion Image Generation project in Java! This project d
 
 - Java Development Kit (JDK) 8 or later
 - Maven (for building and dependencies)
+- DJL (please refer djl documentation to set it up)
 
 ### Installation
 
