@@ -4,9 +4,7 @@
 ![3](https://github.com/Vansh-Santdasani/Image-Generation-in-java-stabled-diffusion-/assets/156500918/87889491-0726-48f4-b6a3-4feb91aabac0)
 ![4](https://github.com/Vansh-Santdasani/Image-Generation-in-java-stabled-diffusion-/assets/156500918/118d5948-462d-4d28-8fbf-c224edceacd0)
 
-Certainly! Writing a README for a project is crucial for providing clear guidelines and information to users and contributors. Below is a sample README for your Stable Diffusion Image Generation project in Java:
 
----
 
 # Stable Diffusion Image Generation
 
